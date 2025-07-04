@@ -1,6 +1,12 @@
 # Power-BI-Dashboard
- I’m thrilled to showcase the Mobile Sales Data Dashboard I created using Microsoft Power BI. This dashboard provides a comprehensive overview of mobile sales, including key metrics like:
+ I’m thrilled to showcase the Mobile Sales Data Dashboard I created using Microsoft Power BI. 
 
+ ## Dataset used
+<a href="https://github.com/muskan4933/Power-BI-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx"> Dataset view </a>
+
+## Dashboard
+<a href="https://github.com/muskan4933/Power-BI-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx">Dashboard view</a>
+This dashboard provides a comprehensive overview of mobile sales, including key metrics like:
 ✅ Total Sales
 ✅ Quantity Sold
 ✅ Number of Transactions
@@ -8,6 +14,8 @@
 ✅ Customer Ratings
 ✅ Sales by City, Brand, and Mobile Model
 ✅ Payment Method Analysis
+
+![My Dashboard](https://github.com/user-attachments/assets/3e1678d7-416a-44a0-89a1-fc130bd59fbe)
 
 The interactive visuals and detailed insights have helped me understand how data can drive smarter business decisions. 📈✨
 
