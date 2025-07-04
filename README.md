@@ -5,7 +5,7 @@
 <a href="https://github.com/muskan4933/Power-BI-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx"> Dataset view </a>
 
 ## Dashboard
-<a href="https://github.com/user-attachments/assets/e6bfbe50-0a83-46c9-b9b4-8a9444ef0f42">Dashboard view</a>
+<a href="https://github.com/muskan4933/Power-BI-Dashboard/blob/main/PowerBI%20Project%20-%20Mobile%20Sales%20Dashboard.pbix">Dashboard view</a>
 This dashboard provides a comprehensive overview of mobile sales, including key metrics like:
 ✅ Total Sales
 ✅ Quantity Sold
